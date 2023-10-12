@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Escondendo anotações pessoais do curso
+React com Typescript - Organo.txt
