@@ -24,8 +24,10 @@ E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, execute `npm install --force` para instalar as dependências e `npm start` para inicar o projeto.
+Para abrir e rodar o projeto, execute `npm install` para instalar as dependências e `npm start` para inicar o projeto.
+
+Caso não rode com o `npm install`, basta dar um: `npm install --force`
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
 
-Este repositório será onde irei deixar o código do meu 1° projeto com contato com typescript.
+Meu 1° contato com Typescript foi neste projeto... Espero que goste -> https://organo-typescript-b.vercel.app/
